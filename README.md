@@ -1,2 +1,2 @@
-# vue-project
+# vue
 vue-project
