@@ -1,2 +1,2 @@
-# git
+# vue-project
 vue-project
